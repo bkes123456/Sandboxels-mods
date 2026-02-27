@@ -7,6 +7,6 @@ elements.test_sand = {
         "M1|M1|M1",
         "M2|M1|M2"
     ],
-    category: "tests",
+    category: "solid",
     state: "solid"
 }
